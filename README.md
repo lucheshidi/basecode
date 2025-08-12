@@ -67,7 +67,7 @@ And I think you'll find it easier to use.
 3. If you find a bug, you can open an issue to tell us about it. We will try to fix as quickly as we can.
 4. If you find a bug, and you can fix it, you can also create a pull request to fix it. And we will review your code and merge it.
 
-##### BUT! you have to follow the [license](LICENSE.gpl.md) when you're contributing the project.
+##### BUT! you have to follow the [license](LICENSE.md) when you're contributing the project.
 
 ## License
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
